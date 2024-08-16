@@ -10,4 +10,4 @@ int main(void){
     printf("16진수로는 %#x입니다\n", data);
 
     return 0;
-}//가나다
+}
